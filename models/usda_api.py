@@ -45,7 +45,7 @@ class USDAFoodLookup:
 
 # Example usage
 if __name__ == "__main__":
-    api_key = "lmUwOuvbvhrvbfAtCzxt8M4ErPpJDbnTvQ1mZqij"  
+    api_key = "XXX"  
     usda = USDAFoodLookup(api_key)
 
     food = "sirloin steak"
